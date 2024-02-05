@@ -1,0 +1,9 @@
+caption {
+        border: 2px solid red;
+}
+th,td {
+    border: 2px solid red;
+    padding: 15px;
+    text-align: center;
+}
+ 
