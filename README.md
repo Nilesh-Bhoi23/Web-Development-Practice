@@ -3,4 +3,5 @@
 3) Basic Structure of an Html
 4) Heading , paragraphs and links
 5) Image,Lists , and tables in html
-6) 
+6) Seo and core web vitals In Html
+7) Inline & Block Elemnets in Html
