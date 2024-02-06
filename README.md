@@ -6,3 +6,4 @@
 5) Image,Lists , And Tables in Html                  <br>
 6) Seo And Core Web Vitals In Html                   <br>
 7) Inline & Block Elemnets in Html                   <br>
+8) Inline & Block Elements in Html                   <br>
