@@ -10,3 +10,4 @@
 9) Id & Classes in Html                              <br>
 10) Video, Audio & Media in Html                     <br>
 11) Semantic Tags in Html                            <br>
+12) Pure HTML Media Player-(Exercise 1)              <br>
