@@ -9,3 +9,4 @@
 8) Inline & Block Elemnets in Html                   <br>
 9) Id & Classes in Html                              <br>
 10) Video, Audio & Media in Html                     <br>
+11) Semantic Tags in Html                            <br>
