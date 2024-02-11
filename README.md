@@ -15,3 +15,4 @@
 14) Introduction To CSS                              <br>
 15) Inline, Internal & External CSS                  <br>
 16) Exercise 1 -Media in Html                        <br>
+17) CSS Selectors MasterClass                        <br>
