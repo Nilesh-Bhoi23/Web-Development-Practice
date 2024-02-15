@@ -26,5 +26,6 @@
 24) CSS Shadows And Outlines                         <br>
 25) Styling Lists Using CSS                          <br>
 26) CSS Overflow Property                            <br>
-27) Exercise 3 - Child selector(advance)             <br>
+27) Exercise 2 - Child selector(advance)             <br>
 28) CSS Position Property                            <br>
+29) Exercise-3 Design Card                           <br>
