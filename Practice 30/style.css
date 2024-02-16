@@ -1,0 +1,39 @@
+:root {
+    --color:rgb(216, 58, 243); /* Global Variable */
+    --secolor:rgb(202, 197, 227);
+
+    --defpad:23px; /*padding*/
+
+    --defop:0.2; /*opacity*/
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: var(--color);
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    opacity: var(--defop);
+    list-style: none;
+    padding: var(--defpad);
+    border: 2px solid var(--secolor);
+}
+
+ul li:first-child {
+    --color:rgb(225, 37, 16); /* Local Variable */
+    /* when --color property not found than next blue color are work */
+    background-color: var(--color,blue);
+}
+
+.container {
+    background-color: var(--secolor);
+}
