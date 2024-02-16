@@ -29,3 +29,6 @@
 27) Exercise 2 - Child selector(advance)             <br>
 28) CSS Position Property                            <br>
 29) Exercise-3 Design Card                           <br>
+30) CSS Variables                                    <br>
+31) CSS Media Queries                                <br>
+32) One More Card Design                             <br>
