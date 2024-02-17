@@ -1,0 +1,53 @@
+/* .box:first-child {
+    background-color: red;
+}
+ .box::first-line {
+    color: yellow;
+ } */
+
+ /* .boxes * {
+    color: blue;
+    border: 2px solid black;
+ } */
+
+ /* p,a, .box,[data-color="primary"]{
+    padding-top: 20px;
+ } */
+
+/* 
+.box:nth-child(even) {
+    background-color: blue;
+} */
+
+/* .box:nth-child(odd) {
+    background-color: gray;
+} */
+
+/* .box:nth-last-child(1) {
+    background-color: yellowgreen;
+} */
+
+.boxes::before {
+    content: "Nilesh is goood";
+    color: blue;
+}
+
+.boxes::after {
+    content: "Web-Development";
+    color:gray;
+}
+
+::selection {
+    background-color: black;
+    color: aqua;
+}
+
+.box::first-letter {
+    color: peru;
+    font-size: 30px;
+}
+
+input::placeholder {
+    color: red;
+    background-color: black;
+}
