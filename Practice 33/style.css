@@ -1,0 +1,35 @@
+:root {
+    --color:rgb(0, 0, 0);
+    --seccolor:rgb(112, 153, 234);
+    --hover:rgb(233, 233, 5);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    display: flex;
+    background-color: var(--seccolor);
+    color: var(--color);
+    height: 70px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+    margin-left: 80px;
+}
+
+.nav ul li {
+    margin-left: 70px;
+}
+
+.nav ul li:hover {
+    color: var(--hover);
+}
