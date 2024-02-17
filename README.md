@@ -32,3 +32,4 @@
 30) CSS Variables                                    <br>
 31) CSS Media Queries                                <br>
 32) One More Card Design                             <br>
+33) Multi-Color Nav-Bar                              <br>
