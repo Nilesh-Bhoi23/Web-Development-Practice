@@ -35,3 +35,4 @@
 33) Multi-Color Nav-Bar                              <br>
 34) CSS Float & Clear                                <br>
 35) More on CSS Selectors                            <br>
+36) Basic Nav and Main Design                        <br>
