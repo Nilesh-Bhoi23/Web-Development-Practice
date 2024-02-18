@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Protest Revolution", sans-serif;
+}
+:root {
+    --primary-color:rgb(143, 66, 215);
+    --text-color:rgb(15, 10, 10);
+    --secondary-color:#e3cff5cc;
+    --boxcolor:rgb(97, 174, 222);
+}
+
+body {
+    background-color: var(--secondary-color);
+}
+
+nav {
+  background-color: var(--primary-color);
+  padding: 12px 0;
+}
+
+ul li {
+  list-style: none;
+  display: inline;
+  padding: 23px;
+  font-weight: bolder;
+  color: var(--text-color);
+}
+
+/*  
+UL {
+    display: flex;
+} */
+
+.boxes {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+
+.box {
+  height: 300px;
+  width: 400px;
+  background-color: var(--boxcolor);
+}
