@@ -1,4 +1,5 @@
 <h1>Practice Full-Stack Web-Development</h1>
+<h3>HTML 5</h3>
 1) Installing VS Code & How Websites Work            <br>
 2) Your First HTML Website - Basics of Website       <br>
 3) Basic Structure of an Html                        <br>
@@ -35,4 +36,5 @@
 33) Multi-Color Nav-Bar                              <br>
 34) CSS Float & Clear                                <br>
 35) More on CSS Selectors                            <br>
-36) Basic Nav and Main Design                        <br>
+36) Basic Nav and Main Design Layout                 <br>
+37) Design Website Layout                            <br>
