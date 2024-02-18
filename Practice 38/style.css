@@ -1,0 +1,47 @@
+.container {
+    border: 2px solid red;
+    display: flex;
+    flex: right;
+    height: 80vh;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* flex-wrap: wrap-reverse; */
+
+    /* there is no justify-items in flex box*/
+
+    align-content: flex-start;
+    flex-flow: row wrap;
+    /* flex-flow: row wrap-reverse; */
+
+    /* flex-flow is used to which side wrap the content
+       flex-flow:row wrap; 
+    */
+
+    gap: 70px 40px;
+    /* gap:row column */
+
+    /* row-gap: 30px;
+    column-gap: 50px; */
+}
+
+.item {
+    height: 62px;
+    width: 62px;
+    border: 2px solid black;
+    /* margin: 4px; */
+    background-color: blueviolet;
+    flex-grow: 1;
+}
+
+.order-1 {
+    order: 1;
+}
+.order-2 {
+    order: 2;
+}
+
+.order-3 {
+    order: 3;
+}
