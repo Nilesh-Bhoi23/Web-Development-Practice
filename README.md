@@ -13,7 +13,7 @@
 11) Semantic Tags in Html                            <br>
 12) Pure HTML Media Player-(Exercise 1)              <br>
 13) Entities, Code Tag And More of Html              <br>
-<h3>CSS</h3>
+<h3>CSS 3</h3>
 14) Introduction To CSS                              <br>
 15) Inline, Internal & External CSS                  <br>
 16) Exercise 1 -Media in Html                        <br>
@@ -38,3 +38,4 @@
 35) More on CSS Selectors                            <br>
 36) Basic Nav and Main Design Layout                 <br>
 37) Design Website Layout                            <br>
+38) CSS <b>Flex Box</b>                              <br>                                            
