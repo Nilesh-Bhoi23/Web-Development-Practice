@@ -40,3 +40,4 @@
 37) Design Website Layout                            <br>
 38) CSS <b>Flex Box</b>                              <br>                                      
 39) CSS <b>Grid</b>                                  <br>
+40) Basic Design Practice                            <br>
