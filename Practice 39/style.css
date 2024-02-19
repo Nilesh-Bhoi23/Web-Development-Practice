@@ -1,0 +1,38 @@
+.container {
+    border: 2px solid black;
+    display: grid;
+    /* grid-template-columns: 120px 100px; */
+    grid-template-columns: [first] 120px [second] 100px [three];
+    grid-template-rows: 100px 100px 100px;
+
+}
+
+.item {
+    border: 2px solid red;
+    height: 55px;
+    /* width: 55px; */
+}
+
+.item-4 {
+    grid-row: 1/2;
+    grid-column: 1/2;
+}
+
+.item-1 {
+    /* SAME THING */
+
+    grid-row: 1/2;
+    /* grid-column: 1/3; */
+    grid-column: first/three;
+    
+
+     /* or you can do */
+
+     /* grid-row-start: 1;
+     grid-row-end: 2; */
+}
+
+/* .item-1 {
+    grid-row: -1/2;
+    grid-column: -1/-2;
+} */
