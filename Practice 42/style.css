@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    background-color: beige;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* transform: rotate(90deg); */
+    transform: rotate(55deg);
+    transform-origin: -0% -0%;
+    /* transform: rotateX(40deg); */
+    /* transform: rotateZ(40deg); */
+
+    /* transform: scale(1.6); */
+    /* transform: scaleX(1.6); */
+    /* transform: scaleY(1.6); */
+    /* transform: scaleZ(1.6); */
+    /* transform: scale3d(); */
+
+    /* transform: skew(24deg); not apply  Z axis*/
+
+    /* transform: translateX(100%); */
+    /* transform: translateY(100%) skew(40deg) translateX(105%); */
+    /* transform: translateY(-100%) skew(40deg) translateX(105%); */
+}
+
+.container {
+    height: 55vh;
+    width: 50vw;
+    border: 2px solid purple;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+
