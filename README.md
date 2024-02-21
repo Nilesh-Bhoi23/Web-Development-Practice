@@ -46,3 +46,4 @@
 43) Nav Bar Using Flex Box                           <br>
 44) UltraEdit Web Clone Using Grid                   <br>
 45) CSS Transition Property                          <br>
+46) CSS Animation                                    <br>
