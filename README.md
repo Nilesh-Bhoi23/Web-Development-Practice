@@ -52,4 +52,4 @@
 45) CSS Transition Property                          <br>
 46) CSS Animation                                    <br>
 47) Proper Grid Working                              <br>
-
+48) Bounce Animation                                 <br>
