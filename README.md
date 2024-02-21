@@ -1,5 +1,7 @@
 <h1>Practice Full-Stack Web-Development</h1>
+
 <h3>HTML 5</h3>
+
 1) Installing VS Code & How Websites Work            <br>
 2) Your First HTML Website - Basics of Website       <br>
 3) Basic Structure of an Html                        <br>
@@ -13,7 +15,9 @@
 11) Semantic Tags in Html                            <br>
 12) Pure HTML Media Player-(Exercise 1)              <br>
 13) Entities, Code Tag And More of Html              <br>
+
 <h3>CSS 3</h3>
+
 14) Introduction To CSS                              <br>
 15) Inline, Internal & External CSS                  <br>
 16) Exercise 1 -Media in Html                        <br>
@@ -47,3 +51,5 @@
 44) UltraEdit Web Clone Using Grid                   <br>
 45) CSS Transition Property                          <br>
 46) CSS Animation                                    <br>
+47) Proper Grid Working                              <br>
+
