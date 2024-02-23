@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    background-image: url("https://media.istockphoto.com/id/183412466/photo/eastern-bluebirds-male-and-female.jpg?s=612x612&w=0&k=20&c=6_EQHnGedwdjM9QTUF2c1ce7cC3XtlxvMPpU5HAouhc=");
+}
+
+.box {
+    display: flex;
+    gap: 70px;
+    background-image: url();
+}
+
+.box img{
+    height: 266px;
+    width: 466px;
+    border: 5px solid rgb(0, 0, 0);
+    /* object-fit: contain; */
+    object-fit: cover;
+    object-position: center center;
+}
+

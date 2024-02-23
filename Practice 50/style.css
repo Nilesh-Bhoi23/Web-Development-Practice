@@ -1,0 +1,25 @@
+.con {
+    height: 100vh;
+    width: 100vw;
+    background-color: cyan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.con img {
+    height: 500px;
+}
+
+.img-1 {
+    /* filter: blur(5px); */
+    filter: brightness(117%) contrast(150%) drop-shadow(16px 16px 20px blue);
+}
+
+.img-2 {
+    filter: contrast(150%) drop-shadow(16px 16px 20px blue);
+}
+
+.img-3 {
+    filter:  contrast(150%) drop-shadow(16px 16px 20px blue);
+}
