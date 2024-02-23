@@ -54,3 +54,4 @@
 47) Proper Grid Working                              <br>
 48) Bounce Animation                                 <br>
 49) CSS Object-fit And Objecct Cover                 <br>
+50) CSS Filters                                      <br>
