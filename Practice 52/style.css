@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+.figma {
+    margin-top: 70px;
+    color: cyan;
+    font-size: 90px;
+}
