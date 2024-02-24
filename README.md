@@ -56,3 +56,4 @@
 49) CSS Object-fit And Objecct Cover                 <br>
 50) CSS Filters                                      <br>
 51) Animation Keyframes                              <br>
+52) Figma Basics                                     <br>
