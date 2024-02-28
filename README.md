@@ -58,3 +58,5 @@
 51) Animation Keyframes                              <br>
 52) Figma Basics                                     <br>
 53) Netflix Clone Responsive                         <br>
+
+<h3>JavaScript</h3>
