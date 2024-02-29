@@ -62,4 +62,4 @@
 <h3>JavaScript</h3>
 
 54) JavaScript Introduction                          <br>
-55) Varibles and Object                              <br>
+55) Variables and Object                             <br>
