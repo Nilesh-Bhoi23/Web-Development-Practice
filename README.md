@@ -65,3 +65,4 @@
 55) Variables and Object                             <br>
 56) Conditional statements & Operators               <br>
 57) JavaScript Loops                                 <br>
+58) JavaScript Function                              <br>
