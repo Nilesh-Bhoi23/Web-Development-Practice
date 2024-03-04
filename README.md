@@ -66,4 +66,4 @@
 56) Conditional statements & Operators               <br>
 57) JavaScript Loops                                 <br>
 58) JavaScript Function                              <br>
-59) FaUlty Calculater Exercise                       <br>
+59) FaUlty Calculater Exercise - 9                   <br>
