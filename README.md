@@ -67,3 +67,4 @@
 57) JavaScript Loops                                 <br>
 58) JavaScript Function                              <br>
 59) FaUlty Calculater Exercise - 9                   <br>
+60) js Strings                                       <br>
