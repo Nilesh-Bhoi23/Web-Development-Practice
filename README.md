@@ -68,4 +68,5 @@
 58) JavaScript Function                              <br>
 59) FaUlty Calculater Exercise - 9                   <br>
 60) js Strings                                       <br>
-61)  
+61)  Faulty Calculater Solve                         <br>
+
