@@ -68,5 +68,6 @@
 58) JavaScript Function                              <br>
 59) FaUlty Calculater Exercise - 9                   <br>
 60) js Strings                                       <br>
-61)  Faulty Calculater Solve                         <br>
+61) Faulty Calculater Solve                          <br>
+62) Business Name Generator -Exercise -10            <br>
 
