@@ -75,3 +75,4 @@
 65) JavaScript Exercise -11 Factorial                <br>
 66) Document Object Model -JavaScript <b>(DOM)</b>   <br>
 67) DOM -Children, Parent & Sibling Nodes            <br>
+68) Selecting by Ids, Classes, and More              <br>
