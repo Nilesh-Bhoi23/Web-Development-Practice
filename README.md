@@ -77,3 +77,4 @@
 67) DOM -Children, Parent & Sibling Nodes            <br>
 68) Selecting by Ids, Classes, and More              <br>
 69) Calculate The Factorial (with Arr)               <br>
+70) Random Color Boxes Using Js - Exercise           <br>            
