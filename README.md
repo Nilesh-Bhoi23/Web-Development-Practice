@@ -79,5 +79,5 @@
 69) Calculate The Factorial (with Arr)               <br>
 70) Random Color Boxes Using Js - Exercise - 11      <br>            
 71) Inserting and Removing Elements Using js         <br>
-72) Random Color Genrater                            <br>
+72) Random Color Genrater.                           <br>
 
