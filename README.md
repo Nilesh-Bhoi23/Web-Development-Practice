@@ -81,4 +81,4 @@
 71) Inserting and Removing Elements Using js         <br>
 72) Random Color Genrater.                           <br>
 73) Dynamic Website Builder-13                       <br>
-
+74) Events,Event Bubbling,setinterval & SetTimeout   <br>
