@@ -84,4 +84,4 @@
 74) Events,Event Bubbling,setinterval & SetTimeout   <br>
 75) JS Callbacks & Promises                          <br>
 76) Async/Await & Fetch API in Js                    <br>
-77) JavaScript Exercise - 13                         <br>
+77) JavaScript Exercise -                       <br>
