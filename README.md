@@ -85,3 +85,4 @@ Ho<h1>Practice Full-Stack Web-Development</h1>
 75) JS Callbacks & Promises                          <br>
 76) Async/Await & Fetch API in Js                    <br>
 77) JavaScript Exercise -  13                        <br>
+78) Exercise 14 - Hacker's Terminal                  <br>
