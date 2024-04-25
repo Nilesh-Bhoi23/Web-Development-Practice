@@ -1,6 +1,6 @@
 Ho<h1>Practice Full-Stack Web-Development</h1>
 
-<h3>HTML </h3>
+<h3>HTML 5</h3>
 
 1) Installing VS Code & How Websites Work            <br>
 2) Your First HTML Website - Basics of Website       <br>
