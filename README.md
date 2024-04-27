@@ -16,7 +16,7 @@ Ho<h1>Practice Full-Stack Web-Development</h1>
 12) Pure HTML Media Player-(Exercise 1)              <br>
 13) Entities, Code Tag And More of Html              <br>
 
-<h3>CSS </h3>
+<h3>CSS 3</h3>
 
 14) Introduction To CSS                              <br>
 15) Inline, Internal & External CSS                  <br>
