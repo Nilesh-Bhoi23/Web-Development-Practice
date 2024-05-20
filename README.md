@@ -15,7 +15,7 @@
 11) Semantic Tags in Html                            <br>
 12) Pure HTML Media Player-(Exercise 1)              <br>
 13) Entities, Code Tag And More of Html              <br>
-
+<hr>
 <h3>CSS 3</h3>
 
 14) Introduction To CSS                              <br>
@@ -58,7 +58,7 @@
 51) Animation Keyframes                              <br>
 52) Figma Basics                                     <br>
 53) Netflix Clone Responsive                         <br>
-
+<hr>
 <h3>JavaScript</h3>
 
 54) JavaScript Introduction                          <br>
