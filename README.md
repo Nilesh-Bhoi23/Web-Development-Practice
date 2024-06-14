@@ -1,5 +1,4 @@
 3# Practice Full-Stack Web-Development
-
 <hr>
 
 <h3>HTML 5</h3>
