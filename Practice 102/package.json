@@ -1,15 +1,24 @@
 {
-  "name": "practice-100",
+  "name": "design-the-layout",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the solution for sigma exercise number 17",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cwh",
+    "sigma",
+    "javascript",
+    "tailwind"
+  ],
+  "author": "Harry",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^3.4.9"
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "vite": "^5.0.12"
   }
 }
