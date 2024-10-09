@@ -131,6 +131,6 @@
  107) Hooks & State in React                         <br>
  108) The useEffect Hook in React                    <br>
  109) The useRef Hook in React                       <br>
- 110) Conditional Rendering & Rendering Lists in react 
+ 110) Conditional Rendering & Rendering Lists in react <br>
 </b>
 </i>
