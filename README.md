@@ -138,5 +138,6 @@
  114) Todo List                                       <br>
  115) React Router: Routing in React                  <br>
  116) The useContext Hook in React                    <br>
+ 117) The useMemo Hook in React                       <br>
 </b>
 </i>
