@@ -143,5 +143,6 @@
  119) Handling Forpressms + Connecting React To Express Backend <br>
  120) Redux                                           <br>
  121) Introduction to Next.js & File based routing    <br>
+ 122) Server Components in Next.js 
 </b>
 </i>
