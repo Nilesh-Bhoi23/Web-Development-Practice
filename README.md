@@ -144,7 +144,7 @@
  120) Redux                                           <br>
  121) Introduction to Next.js & File based routing    <br>
  122) Server Components in Next.js                    <br>
- 123) Script,Link & Image Components in Next.js
+ 123) Script,Link & Image Components in Next.js       <br>
  124) 
 </b>
 </i>
