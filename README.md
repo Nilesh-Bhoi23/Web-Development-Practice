@@ -146,7 +146,7 @@
  122) Server Components in Next.js                    <br>
  123) Script,Link & Image Components in Next.js       <br>
  124) Creating APis In Next.js                        <br>
- 125) Server Actions in Next.js
+ 125) Server Actions in Next.js                       <br>
  
 </b>
 </i>
