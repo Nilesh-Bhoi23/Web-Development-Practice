@@ -147,6 +147,6 @@
  123) Script,Link & Image Components in Next.js       <br>
  124) Creating APis In Next.js                        <br>
  125) Server Actions in Next.js                       <br>
- 126) Middleware in Next.js
+ 126) Middleware in Next.js                           <br>
 </b>
 </i>
